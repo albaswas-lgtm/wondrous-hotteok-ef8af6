@@ -1,0 +1,9 @@
+{
+  "name":"BS Smart Ad Studio",
+  "short_name":"BS Studio",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#070707",
+  "theme_color":"#d6a84f",
+  "icons":[{"src":"assets/brand.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
